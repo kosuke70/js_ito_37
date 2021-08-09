@@ -1,1 +1,2 @@
-# js_ito_37
+参考にしたサイト：https://zapanet.info/dice/chinchiro/
+
